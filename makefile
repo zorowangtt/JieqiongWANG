@@ -15,7 +15,7 @@ py3=python
 push:
 	git add .
 	git commit -m "update paper"
-	git push  --set-upstream origin cross
+	git push 
 
 
 clean: 
